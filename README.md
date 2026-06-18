@@ -22,4 +22,6 @@ Results saved to `outputs/`.
 
 Developed as part of QXU6032 Advanced Ceramic and Glass Materials coursework (QMES, 2026). Methodological improvements are welcome via issues or pull requests.
 
+## Results
+
 ![Grain analysis result](sem_v4_result.jpg)
