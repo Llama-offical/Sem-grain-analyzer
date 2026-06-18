@@ -5,7 +5,7 @@ This toolkit quantifies grain morphology in garnet-type solid-state electrolytes
 ## Quick Start
 
 ```bash
-git clone https://github.com/Llama-official/sem-grain-analyzer.git
+git clone https://github.com/Llama-offical/Sem-grain-analyzer
 cd sem-grain-analyzer
 python pore_detection_demo.py
 python grain_temperature_analyzer.py
