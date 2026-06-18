@@ -17,3 +17,7 @@ Results saved to `outputs/`.
 
 - Python 3.9+
 - opencv-python, numpy, scipy, matplotlib
+
+## Contributing
+
+Developed as part of QXU6032 Advanced Ceramic and Glass Materials coursework (QMES, 2026). Methodological improvements are welcome via issues or pull requests.
